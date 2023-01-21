@@ -1,16 +1,18 @@
-# vigenesia
+# Flutter Vigenesia API
+Mata Kuliah Teknologi Web Service
 
-A new Flutter project.
+##Fitur
+- Login
+- Register
+- CRUD
 
-## Getting Started
+##Hak akses
+- User
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Info Lebih lanjut Silahkan Hubungi saya
+Screenshots:<br>
+<table style={border:"none"}><tr>
+<td><img src="https://github.com/SaifulDA/Flutter_Vigenesia_Api/blob/main/screenshoot/daftar_vigenesia.png"/></td>
+<td><img src="https://github.com/SaifulDA/Flutter_Vigenesia_Api/blob/main/screenshoot/login_vigenesia.png"/></td>
+<td><img src="https://github.com/SaifulDA/Flutter_Vigenesia_Api/blob/main/screenshoot/tambah_motivasi.png"/></td>
+<td><img src="https://github.com/SaifulDA/Flutter_Vigenesia_Api/blob/main/screenshoot/vigenesia_home.png"/></td>
